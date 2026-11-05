@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "node prerender.cjs && node build.cjs",
+  "outputDirectory": "dist"
+}

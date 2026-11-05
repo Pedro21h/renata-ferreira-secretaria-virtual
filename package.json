@@ -1,0 +1,1 @@
+{"name":"renata-ferreira-secretaria-virtual","version":"1.0.0","private":true,"scripts":{"start":"node server.cjs","prerender":"node prerender.cjs","check":"node --check app.js && node --check config.js && node --check server.cjs"}}
